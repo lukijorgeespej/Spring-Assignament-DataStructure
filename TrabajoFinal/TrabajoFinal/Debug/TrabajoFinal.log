@@ -1,0 +1,16 @@
+﻿  BinaryTree.cpp
+  List.cpp
+  Logic.cpp
+  NodeBinaryTree.cpp
+  NodeList.cpp
+  NodeStack.cpp
+  Stack.cpp
+  TrabajoFinal.cpp
+  UserData.cpp
+  UserInterface.cpp
+  Generando código...
+C:\Users\lucas\source\repos\TrabajoFinal\TrabajoFinal\Stack.cpp(42): warning C4715: 'Stack::searchId': no todas las rutas de acceso de control devuelven un valor
+C:\Users\lucas\source\repos\TrabajoFinal\TrabajoFinal\List.cpp(54): warning C4715: 'List::searchId': no todas las rutas de acceso de control devuelven un valor
+C:\Users\lucas\source\repos\TrabajoFinal\TrabajoFinal\BinaryTree.cpp(53): warning C4715: 'BinaryTree::search': no todas las rutas de acceso de control devuelven un valor
+C:\Users\lucas\source\repos\TrabajoFinal\TrabajoFinal\BinaryTree.cpp(244): warning C4715: 'BinaryTree::insert': no todas las rutas de acceso de control devuelven un valor
+  TrabajoFinal.vcxproj -> C:\Users\lucas\source\repos\TrabajoFinal\Debug\TrabajoFinal.exe
